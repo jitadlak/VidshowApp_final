@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1072419139875",
+    "project_id": "vidshowapp",
+    "storage_bucket": "vidshowapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072419139875:android:1ec0510808ce7a90641c96",
+        "android_client_info": {
+          "package_name": "com.mainproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072419139875-ap3fod03a1fe65h64h5n9cceckbnkihe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mainproject",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1072419139875-155bvporjh8il4g6cp9cl727jnd4iu3v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB5a1FkWDWz90NcY6UzUegoe5zlZElciY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072419139875-155bvporjh8il4g6cp9cl727jnd4iu3v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,139 @@
+[  
+    
+    {
+        "title" : "sultan",
+        "category" : "Comedy And Action",
+        "year" : 2019,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgeMOBh65-jo0dQIQCuWNRdhRe7o-lHUaTQ&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Squid Games",
+        "category" : "Thriller And Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VFRR8XGQQGE1Haj6nQRsw4sozEe8PMjl1A&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "https://www.w3schools.com/html/mov_bbb.mp4"
+    },
+    {
+        "title" : "Panchayat",
+        "category" : "Education And Comedy",
+        "year" : 2018,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4u6-LvQkaoAhgoMTLe6jjyfErhaWgvGKNQ&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Squid Games",
+        "category" : "Thriller And Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VFRR8XGQQGE1Haj6nQRsw4sozEe8PMjl1A&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Inside Edge",
+        "category" : " Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvq6e1gtktRzpi9_9i_FlzUV6EkttWJABiw&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Squid Games",
+        "category" : "Thriller And Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VFRR8XGQQGE1Haj6nQRsw4sozEe8PMjl1A&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Inside Edge",
+        "category" : " Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvq6e1gtktRzpi9_9i_FlzUV6EkttWJABiw&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Panchayat",
+        "category" : "Education And Comedy",
+        "year" : 2018,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4u6-LvQkaoAhgoMTLe6jjyfErhaWgvGKNQ&usqp=CAU",
+        "type" : "Trending Shows" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "sultan",
+        "category" : "Comedy And Action",
+        "year" : 2019,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfgeMOBh65-jo0dQIQCuWNRdhRe7o-lHUaTQ&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Squid Games",
+        "category" : "Thriller And Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VFRR8XGQQGE1Haj6nQRsw4sozEe8PMjl1A&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Panchayat",
+        "category" : "Education And Comedy",
+        "year" : 2018,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_4u6-LvQkaoAhgoMTLe6jjyfErhaWgvGKNQ&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Squid Games",
+        "category" : "Thriller And Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VFRR8XGQQGE1Haj6nQRsw4sozEe8PMjl1A&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Inside Edge",
+        "category" : " Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvq6e1gtktRzpi9_9i_FlzUV6EkttWJABiw&usqp=CAU",
+        "type" : "Special for you" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+        "title" : "Squid Games",
+        "category" : "Thriller And Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3VFRR8XGQQGE1Haj6nQRsw4sozEe8PMjl1A&usqp=CAU",
+        "type" : "Trending Shows" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+      {
+        "title" : "Inside Edge",
+        "category" : " Action",
+        "year" : 2021,
+        "Description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eget orci et augue sagittis luctus at id nunc. Phasellus faucibus lacus orci, vel mattis ipsum condimentum nec. Nam condimentum metus eget malesuada placerat. Cras consectetur ex justo, ac finibus neque finibus sit amet. Morbi ut dapibus purus, id posuere nibh. Ut tempor sollicitudin magna non eleifend. Vivamus quis quam velit. Nulla faucibus commodo lectus. ",
+        "image" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDvq6e1gtktRzpi9_9i_FlzUV6EkttWJABiw&usqp=CAU",
+        "type" : "Trending Shows" ,
+        "video" : "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    }
+    
+]
